@@ -27,7 +27,5 @@ public class Account implements Serializable {
 
     private String lastName;
 
-    private Address address;
-
     private String phoneNumber;
 }
