@@ -1,3 +1,3 @@
 # partie2_activite
 Ceci est une activité de openclassroom
-Cet exercice a pour but de bien comprendre l'utilisation de GIT et GITHUB
+Ce projet consiste à créer un repository git et l'utilisation de github ainsi que les différents commandes de git comme, commit/push/pull
